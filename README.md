@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emad Abdou</h1>
-<h3 align="center">I am a Front End Developer with 3+ years of full-time work experience. I currently work mainly with Typescript in the Angular Framework, also I have knowledge of React js and Vue js and a good background in UI/UX.</h3>
+<h3 align="center">I am a Front End Developer with 4+ years of full-time work experience. I currently work mainly with Typescript in the Angular Framework, also I have knowledge of React js and Vue js and a good background in UI/UX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emadabdou&label=Profile%20views&color=0e75b6&style=flat" alt="emadabdou" /> </p>
 
