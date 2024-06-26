@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <a href="emad.abdou007@gmail.com" target="_blank">
+  <a href="mailto:emad.abdou007@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=emad.abdou007@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/emad-abdou/" target="_blank">
@@ -86,6 +86,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EmadAbdou/EmadAbdou/output/snake.svg" alt="Snake animation" />
+### 🐍 A Snake Eating My Contributions 🐍
+
+![snake gif](https://github.com/EmadAbdou/EmadAbdou/blob/output/github-contribution-grid-snake.svg)
+
+
+<!-- <img src="https://raw.githubusercontent.com/EmadAbdou/EmadAbdou/output/snake.svg" alt="Snake animation" /> -->
 
 ###
