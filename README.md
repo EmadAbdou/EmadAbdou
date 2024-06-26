@@ -87,7 +87,7 @@
 <br clear="both">
 
 <div align="center">
-  ### 🐍 A Snake Eating My Contributions 🐍
+  <h3> 🐍 A Snake Eating My Contributions 🐍 </h3>
 
   <img src="https://github.com/EmadAbdou/EmadAbdou/raw/output/snake.svg" alt="Snake animation" />
 </div>
