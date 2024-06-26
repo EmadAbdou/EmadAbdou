@@ -86,11 +86,10 @@
 
 <br clear="both">
 
-### 🐍 A Snake Eating My Contributions 🐍
+<div align="center">
+  ### 🐍 A Snake Eating My Contributions 🐍
 
-![snake gif](https://github.com/EmadAbdou/EmadAbdou/blob/output/github-contribution-grid-snake.svg)
-
-
-<!-- <img src="https://raw.githubusercontent.com/EmadAbdou/EmadAbdou/output/snake.svg" alt="Snake animation" /> -->
+  <img src="https://github.com/EmadAbdou/EmadAbdou/raw/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
