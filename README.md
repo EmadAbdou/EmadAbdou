@@ -1,4 +1,8 @@
-<h3 align="center">Hi 👋! My name is Emad <br>I am a Front End Developer with 5+ years of full-time work experience. I currently work mainly with Typescript in the Angular Framework, also I have knowledge of React js and Vue js and a good background in UI/UX.</h3>
+<h3 align="center">Hi 👋! My name is Emad <br>I'm a Senior Front-End Engineer with 7+ years of experience building scalable web and mobile applications using Angular, Next.js, and TypeScript. I combine strong UI/UX design skills with hands-on development, and have led front-end teams, refactored legacy systems, and delivered 30+ cross-platform projects.
+<br>
+I also bring freelance experience in project planning, BRD creation, and backend support, along with a background in graphic design for campaigns and events.
+<br>
+I thrive in fast-paced environments and love turning complex ideas into clean, user-focused solutions.</h3>
 
 ###
 
